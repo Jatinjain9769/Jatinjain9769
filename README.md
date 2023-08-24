@@ -1,4 +1,16 @@
-# 💫 About Me:
+
+<h1 align="center">Jatin Jain</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jatinjain9769&label=Profile%20views&color=0e75b6&style=flat" alt="Jatinjain9769" /> </p>
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 📫 How to reach me **jainjatin15211@gmail.com**
+
+
+
+<h1 align="center"> 💫 About Me:</h1>
 Web Developer adept in most stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Java, ASP.NET, C#, Python and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. Organized and dependable candidate successful at managing multiple priorities. Willingness to take on added responsibilities to meet team goals.
 
 
